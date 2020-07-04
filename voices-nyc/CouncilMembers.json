@@ -1,0 +1,308 @@
+[
+  {
+    "NAME": "Inez Barron",
+    "DISTRICT": 42,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Fernando Cabrera",
+    "DISTRICT": 14,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Margaret Chin",
+    "DISTRICT": 1,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Andrew Cohen",
+    "DISTRICT": 11,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Robert Cornegy",
+    "DISTRICT": 36,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Costa Constantinides",
+    "DISTRICT": 22,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Robert Holden",
+    "DISTRICT": 30,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Laurie Cumbo",
+    "DISTRICT": 35,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Chaim M. Deutsch",
+    "DISTRICT": 48,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Daniel Dromm",
+    "DISTRICT": 25,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Rafael Espinal",
+    "DISTRICT": 37,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Mathieu Eugene",
+    "DISTRICT": 40,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Keith Powers",
+    "DISTRICT": 4,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Justin Brannan",
+    "DISTRICT": 43,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Vanessa L Gibson",
+    "DISTRICT": 16,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Kalman Yeger",
+    "DISTRICT": 44,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Corey Johnson",
+    "DISTRICT": 3,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Andy King",
+    "DISTRICT": 12,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Ben Kallos",
+    "DISTRICT": 5,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Peter Koo",
+    "DISTRICT": 20,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Karen Koslowitz",
+    "DISTRICT": 29,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Rory Lancman",
+    "DISTRICT": 24,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Brad Lander",
+    "DISTRICT": 39,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Stephen Levin",
+    "DISTRICT": 33,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Mark Levine",
+    "DISTRICT": 7,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Alan Maisel",
+    "DISTRICT": 46,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Diana Ayala",
+    "DISTRICT": 8,
+    "BOROUGH": "Manhattan and Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Steven Matteo",
+    "DISTRICT": 50,
+    "BOROUGH": "Staten Island",
+    "POLITICAL PARTY": "Republican"
+  },
+  {
+    "NAME": "Alicka Ampry-Samuel",
+    "DISTRICT": 41,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Carlos Menchaca",
+    "DISTRICT": 38,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Carlina Rivera",
+    "DISTRICT": 2,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "I. Daneek Miller",
+    "DISTRICT": 27,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Ruben Diaz, Sr.",
+    "DISTRICT": 18,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Donovan Richards",
+    "DISTRICT": 31,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Ydanis Rodriguez",
+    "DISTRICT": 10,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Deborah Rose",
+    "DISTRICT": 49,
+    "BOROUGH": "Staten Island",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Helen Rosenthal",
+    "DISTRICT": 6,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Ritchie Torres",
+    "DISTRICT": 15,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Mark Treyger",
+    "DISTRICT": 47,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Eric Ulrich",
+    "DISTRICT": 32,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Republican"
+  },
+  {
+    "NAME": "Mark Gjonaj",
+    "DISTRICT": 13,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Paul Vallone",
+    "DISTRICT": 19,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Jimmy Van Bramer",
+    "DISTRICT": 26,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Farah Louis",
+    "DISTRICT": 45,
+    "BOROUGH": "Brooklyn",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Francisco Moya",
+    "DISTRICT": 21,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Adrienne Adams",
+    "DISTRICT": 28,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": ""
+  },
+  {
+    "NAME": "Joseph Borelli",
+    "DISTRICT": 51,
+    "BOROUGH": "Staten Island",
+    "POLITICAL PARTY": "Republican"
+  },
+  {
+    "NAME": "Antonio Reynoso",
+    "DISTRICT": 34,
+    "BOROUGH": "Brooklyn and Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Bill Perkins",
+    "DISTRICT": 9,
+    "BOROUGH": "Manhattan",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Barry Grodenchik",
+    "DISTRICT": 23,
+    "BOROUGH": "Queens",
+    "POLITICAL PARTY": "Democrat"
+  },
+  {
+    "NAME": "Rafael Salamanca",
+    "DISTRICT": 17,
+    "BOROUGH": "Bronx",
+    "POLITICAL PARTY": "Democrat"
+  }
+]
