@@ -18,8 +18,11 @@ struct ContentView: View {
             List(councilMembers) { member in
                 Image(systemName: "person.circle.fill")
                 VStack(alignment: .leading){
-                    Text("\(member.name)")
+                    Spacer()
+                    Text("\(member.name)").bold()
+                    Spacer()
                     Text("District \(member.district)")
+                    Spacer()
                 }
                 NavigationLink("", destination: DetailView(member: member))
             }
@@ -58,19 +61,8 @@ struct DetailView: View {
                 Spacer()
                 Spacer()
             }
-
         }
         .navigationBarTitle("\(member.name)")
-        .navigationBarItems(trailing:
-            Button(action: {
-                print("button pressed")
-            }) {
-                Image(systemName: "flag.fill")
-                    .renderingMode(.template)
-                    .foregroundColor(.blue)
-            }
-
-        )
     }
 }
 
