@@ -13,12 +13,16 @@ struct CouncilMember: Codable, Identifiable {
     let district: Int
     let borough: Borough
     let politicalParty: PoliticalParty
+    let districtPhone: String
+    let legislativePhone: String
 
     enum CodingKeys: String, CodingKey {
         case name = "NAME"
         case district = "DISTRICT"
         case borough = "BOROUGH"
         case politicalParty = "POLITICAL PARTY"
+        case districtPhone = "DISTRICT PHONE"
+        case legislativePhone = "LEGISLATIVE PHONE"
     }
 }
 

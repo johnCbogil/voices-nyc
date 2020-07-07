@@ -3,306 +3,408 @@
     "NAME": "Inez Barron",
     "DISTRICT": 42,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Fernando Cabrera",
     "DISTRICT": 14,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Margaret Chin",
     "DISTRICT": 1,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-587-3159",
+    "LEGISLATIVE PHONE": "212-788-7259"
   },
   {
     "NAME": "Andrew Cohen",
     "DISTRICT": 11,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Robert Cornegy",
     "DISTRICT": 36,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Costa Constantinides",
     "DISTRICT": 22,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Robert Holden",
     "DISTRICT": 30,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Laurie Cumbo",
     "DISTRICT": 35,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Chaim M. Deutsch",
     "DISTRICT": 48,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Daniel Dromm",
     "DISTRICT": 25,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Rafael Espinal",
     "DISTRICT": 37,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Mathieu Eugene",
     "DISTRICT": 40,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Keith Powers",
     "DISTRICT": 4,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-818-0580",
+    "LEGISLATIVE PHONE": "212-788-7393"
   },
   {
     "NAME": "Justin Brannan",
     "DISTRICT": 43,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Vanessa L Gibson",
     "DISTRICT": 16,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Kalman Yeger",
     "DISTRICT": 44,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Corey Johnson",
     "DISTRICT": 3,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-564-7757",
+    "LEGISLATIVE PHONE": "212-788-7210"
   },
   {
     "NAME": "Andy King",
     "DISTRICT": 12,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Ben Kallos",
     "DISTRICT": 5,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-860-1950",
+    "LEGISLATIVE PHONE": "212-788-6865"
   },
   {
     "NAME": "Peter Koo",
     "DISTRICT": 20,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-888-8747",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Karen Koslowitz",
     "DISTRICT": 29,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-544-8800",
+    "LEGISLATIVE PHONE": "212-788-6981"
   },
   {
     "NAME": "Rory Lancman",
     "DISTRICT": 24,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-217-4969",
+    "LEGISLATIVE PHONE": "212-788-6956"
   },
   {
     "NAME": "Brad Lander",
     "DISTRICT": 39,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-499-1090",
+    "LEGISLATIVE PHONE": "212-788-6969"
   },
   {
     "NAME": "Stephen Levin",
     "DISTRICT": 33,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-875-5200",
+    "LEGISLATIVE PHONE": "212-788-7348"
   },
   {
     "NAME": "Mark Levine",
     "DISTRICT": 7,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-928-6814",
+    "LEGISLATIVE PHONE": "212-788-7007"
   },
   {
     "NAME": "Alan Maisel",
     "DISTRICT": 46,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-241-9330",
+    "LEGISLATIVE PHONE": "212-788-7286"
   },
   {
     "NAME": "Diana Ayala",
     "DISTRICT": 8,
     "BOROUGH": "Manhattan and Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "",
+    "LEGISLATIVE PHONE": ""
   },
   {
     "NAME": "Steven Matteo",
     "DISTRICT": 50,
     "BOROUGH": "Staten Island",
-    "POLITICAL PARTY": "Republican"
+    "POLITICAL PARTY": "Republican",
+    "DISTRICT PHONE": "347-297-4922",
+    "LEGISLATIVE PHONE": "212-788-6960"
   },
   {
     "NAME": "Alicka Ampry-Samuel",
     "DISTRICT": 41,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-953-3097",
+    "LEGISLATIVE PHONE": "212-788-7387"
   },
   {
     "NAME": "Carlos Menchaca",
     "DISTRICT": 38,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-439-9012",
+    "LEGISLATIVE PHONE": "212-788-7372"
   },
   {
     "NAME": "Carlina Rivera",
     "DISTRICT": 2,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-677-1077",
+    "LEGISLATIVE PHONE": "212-788-7366"
   },
   {
     "NAME": "I. Daneek Miller",
     "DISTRICT": 27,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-776-3700",
+    "LEGISLATIVE PHONE": "212-788-7084"
   },
   {
     "NAME": "Ruben Diaz, Sr.",
     "DISTRICT": 18,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718 792-1140",
+    "LEGISLATIVE PHONE": "212 788-6853"
   },
   {
     "NAME": "Donovan Richards",
     "DISTRICT": 31,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-527-4356",
+    "LEGISLATIVE PHONE": "212-788-7216"
   },
   {
     "NAME": "Ydanis Rodriguez",
     "DISTRICT": 10,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "917-521-2616",
+    "LEGISLATIVE PHONE": "212-788-7053"
   },
   {
     "NAME": "Deborah Rose",
     "DISTRICT": 49,
     "BOROUGH": "Staten Island",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-556-7370",
+    "LEGISLATIVE PHONE": "212-788-6972"
   },
   {
     "NAME": "Helen Rosenthal",
     "DISTRICT": 6,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-873-0282",
+    "LEGISLATIVE PHONE": "212-788-6975"
   },
   {
     "NAME": "Ritchie Torres",
     "DISTRICT": 15,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-842-8100",
+    "LEGISLATIVE PHONE": "212-788-6966"
   },
   {
     "NAME": "Mark Treyger",
     "DISTRICT": 47,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-307-7151",
+    "LEGISLATIVE PHONE": "212-788-7045"
   },
   {
     "NAME": "Eric Ulrich",
     "DISTRICT": 32,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Republican"
+    "POLITICAL PARTY": "Republican",
+    "DISTRICT PHONE": "718-318-6411",
+    "LEGISLATIVE PHONE": "212-788-7069"
   },
   {
     "NAME": "Mark Gjonaj",
     "DISTRICT": 13,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-931-1721",
+    "LEGISLATIVE PHONE": "212-788-7375"
   },
   {
     "NAME": "Paul Vallone",
     "DISTRICT": 19,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-619-8611",
+    "LEGISLATIVE PHONE": "212-788-7250"
   },
   {
     "NAME": "Jimmy Van Bramer",
     "DISTRICT": 26,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-383-9566",
+    "LEGISLATIVE PHONE": "212-788-7370"
   },
   {
     "NAME": "Farah Louis",
     "DISTRICT": 45,
     "BOROUGH": "Brooklyn",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-629-2900",
+    "LEGISLATIVE PHONE": "212-788-6859"
   },
   {
     "NAME": "Francisco Moya",
     "DISTRICT": 21,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-651-1917",
+    "LEGISLATIVE PHONE": "212-788-6862"
   },
   {
     "NAME": "Adrienne Adams",
     "DISTRICT": 28,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": ""
+    "POLITICAL PARTY": "",
+    "DISTRICT PHONE": "718-206-2068",
+    "LEGISLATIVE PHONE": "212-788-6850"
   },
   {
     "NAME": "Joseph Borelli",
     "DISTRICT": 51,
     "BOROUGH": "Staten Island",
-    "POLITICAL PARTY": "Republican"
+    "POLITICAL PARTY": "Republican",
+    "DISTRICT PHONE": "718-984-5151",
+    "LEGISLATIVE PHONE": "(212) 788-6989"
   },
   {
     "NAME": "Antonio Reynoso",
     "DISTRICT": 34,
     "BOROUGH": "Brooklyn and Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-963-3141",
+    "LEGISLATIVE PHONE": "212-788-7095"
   },
   {
     "NAME": "Bill Perkins",
     "DISTRICT": 9,
     "BOROUGH": "Manhattan",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "212-678-4505",
+    "LEGISLATIVE PHONE": "212-788-7397"
   },
   {
     "NAME": "Barry Grodenchik",
     "DISTRICT": 23,
     "BOROUGH": "Queens",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-468-0137",
+    "LEGISLATIVE PHONE": "212-788-7075"
   },
   {
     "NAME": "Rafael Salamanca",
     "DISTRICT": 17,
     "BOROUGH": "Bronx",
-    "POLITICAL PARTY": "Democrat"
+    "POLITICAL PARTY": "Democrat",
+    "DISTRICT PHONE": "718-402-6130",
+    "LEGISLATIVE PHONE": "212-788-7384"
   }
 ]
