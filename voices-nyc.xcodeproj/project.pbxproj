@@ -21,6 +21,8 @@
 		52B30FA524BA6E0E00A5F2E3 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30FA424BA6E0E00A5F2E3 /* DetailView.swift */; };
 		52B30FA724BA740900A5F2E3 /* CouncilMemberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30FA624BA740900A5F2E3 /* CouncilMemberView.swift */; };
 		52B30FA924BA746E00A5F2E3 /* CustomDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30FA824BA746E00A5F2E3 /* CustomDivider.swift */; };
+		52C7DBF824BAB71F00125163 /* nyc.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 52C7DBF724BAB71F00125163 /* nyc.geojson */; };
+		52C7DBFB24BAB7F900125163 /* GeoJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C7DBFA24BAB7F900125163 /* GeoJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,8 @@
 		52B30FA424BA6E0E00A5F2E3 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		52B30FA624BA740900A5F2E3 /* CouncilMemberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouncilMemberView.swift; sourceTree = "<group>"; };
 		52B30FA824BA746E00A5F2E3 /* CustomDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDivider.swift; sourceTree = "<group>"; };
+		52C7DBF724BAB71F00125163 /* nyc.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nyc.geojson; sourceTree = "<group>"; };
+		52C7DBFA24BAB7F900125163 /* GeoJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,11 +80,12 @@
 				5281AF9E24B1389000C882C8 /* AppDelegate.swift */,
 				5281AFA024B1389000C882C8 /* SceneDelegate.swift */,
 				5281AFB224B13CE100C882C8 /* Bundle+.swift */,
-				5281AFB424B13D0900C882C8 /* CouncilMember.swift */,
+				52C7DBF924BAB7EC00125163 /* Model */,
 				5281AFB624B13E8000C882C8 /* CouncilMembers.json */,
 				5281AFA424B1389100C882C8 /* Assets.xcassets */,
 				5281AFA924B1389100C882C8 /* LaunchScreen.storyboard */,
 				5281AFAC24B1389100C882C8 /* Info.plist */,
+				52C7DBF624BAB71100125163 /* geojson */,
 				5281AFA624B1389100C882C8 /* Preview Content */,
 			);
 			path = "voices-nyc";
@@ -105,6 +110,23 @@
 				52B30FA824BA746E00A5F2E3 /* CustomDivider.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		52C7DBF624BAB71100125163 /* geojson */ = {
+			isa = PBXGroup;
+			children = (
+				52C7DBF724BAB71F00125163 /* nyc.geojson */,
+			);
+			path = geojson;
+			sourceTree = "<group>";
+		};
+		52C7DBF924BAB7EC00125163 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5281AFB424B13D0900C882C8 /* CouncilMember.swift */,
+				52C7DBFA24BAB7F900125163 /* GeoJSON.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,6 +191,7 @@
 				5281AFA824B1389100C882C8 /* Preview Assets.xcassets in Resources */,
 				5281AFA524B1389100C882C8 /* Assets.xcassets in Resources */,
 				5281AFB724B13E8000C882C8 /* CouncilMembers.json in Resources */,
+				52C7DBF824BAB71F00125163 /* nyc.geojson in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5281AF9F24B1389000C882C8 /* AppDelegate.swift in Sources */,
+				52C7DBFB24BAB7F900125163 /* GeoJSON.swift in Sources */,
 				52B30FA524BA6E0E00A5F2E3 /* DetailView.swift in Sources */,
 				5281AFB324B13CE100C882C8 /* Bundle+.swift in Sources */,
 				5281AFA124B1389000C882C8 /* SceneDelegate.swift in Sources */,

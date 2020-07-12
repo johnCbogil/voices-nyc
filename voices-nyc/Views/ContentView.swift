@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     let councilMembers = Bundle.main
-        .decode("CouncilMembers.json")
+        .decodeCouncilMembers("CouncilMembers.json")
         .sorted(by: { $0.district < $1.district })
 
     var body: some View {

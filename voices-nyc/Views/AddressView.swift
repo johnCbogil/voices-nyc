@@ -7,19 +7,60 @@
 //
 
 import SwiftUI
+import CoreLocation
 
 struct AddressView: View {
 
-    @State var username: String = ""
+    let districtJSON = Bundle.main
+        .decodeDistricts("nyc.geojson")
+
+    @State var addressInput: String = ""
     var member: CouncilMember?
 
     var body: some View {
         NavigationView {
             VStack {
-                TextField("\"123 Fulton Street, Brooklyn, NY, 11201\"", text: $username)
+                TextField("\"123 Fulton Street, Brooklyn, NY, 11201\"", text: $addressInput)
                 .textFieldStyle(RoundedBorderTextFieldStyle())
                 .padding()
-                CTAButton(text: "Submit")
+                Button(action: {
+                    // your action here
+                    let address = "1 Infinite Loop, Cupertino, CA 95014"
+
+                    let geoCoder = CLGeocoder()
+                    geoCoder.geocodeAddressString(address) { (placemarks, error) in
+                        guard
+                            let placemarks = placemarks,
+                            let location = placemarks.first?.location
+                        else {
+                            return
+                        }
+
+                        self.districtJSON.features.forEach({ feature in
+                            let path = CGMutablePath()
+                            let district = feature.properties.counDist
+                            let geometry = feature.geometry
+                            let coordinates = geometry.coordinates
+                            coordinates.forEach({ array in
+                                // The counter is here to check if its the initial point or not
+                                var counter = 0
+                                array.forEach({ subArray in
+                                    subArray.forEach({ subSubArray in
+                                        let point = CGPoint(x: subSubArray.last!, y: subSubArray.first!)
+                                        if counter == 0 {
+                                            path.move(to: point)
+                                        } else {
+                                            path.addLine(to: point)
+                                        }
+                                        counter += 1
+                                    })
+                                })
+                            })
+                        })
+                    }
+                }) {
+                    Text("Submit")
+                }
                 CustomDivider().padding()
                 CouncilMemberView(member: member)
                 Spacer()

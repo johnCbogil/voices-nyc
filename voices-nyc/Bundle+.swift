@@ -8,7 +8,7 @@
 
 import Foundation
 extension Bundle {
-    func decode(_ file: String) -> [CouncilMember] {
+    func decodeCouncilMembers(_ file: String) -> [CouncilMember] {
         guard let url = self.url(forResource: file, withExtension: nil) else {
             fatalError("Failed to locate \(file) in bundle.")
         }
@@ -22,7 +22,23 @@ extension Bundle {
         guard let loaded = try? decoder.decode([CouncilMember].self, from: data) else {
             fatalError("Failed to decode \(file) from bundle.")
         }
-
         return loaded
+    }
+
+    func decodeDistricts(_ file: String) -> DistrictJSON {
+        guard let url = self.url(forResource: file, withExtension: nil) else {
+                   fatalError("Failed to locate \(file) in bundle.")
+               }
+
+               guard let data = try? Data(contentsOf: url) else {
+                   fatalError("Failed to load \(file) from bundle.")
+               }
+
+               let decoder = JSONDecoder()
+
+               guard let loaded = try? decoder.decode(DistrictJSON.self, from: data) else {
+                   fatalError("Failed to decode \(file) from bundle.")
+               }
+               return loaded
     }
 }
